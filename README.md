@@ -53,8 +53,4 @@ The analysis is performed using **Python**, **Excel concepts**, **SQL thinking**
 - Furnished houses tend to cost more
 
 ---
-
-## 🚀 How to Run the Project
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/Real_Estate_Data_Analytics.git
+ 
