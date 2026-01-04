@@ -47,9 +47,6 @@ The analysis is performed using **Python**, **Excel concepts**, **SQL thinking**
 
 ---
 
-## 📈 Power BI Dashboard
-![Dashboard](images/dashboard.png)
-
 **Key Insights:**
 - Larger area houses (>2000 sqft) have significantly higher average prices
 - Price increases with number of bedrooms and parking
